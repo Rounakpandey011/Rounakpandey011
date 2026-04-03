@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Rounak Pandey 👋
 
-<!--
-**Rounakpandey011/Rounakpandey011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer from Delhi • building clean, fast, user-first web apps with React & Tailwind.
 
-Here are some ideas to get you started:
+Currently: open to frontend internships & entry-level roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech I use
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+## 🚀 Featured projects
+
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| [Employee Management System](https://github.com/Rounakpandey011/employee-management-system) | Task management app with role-based views for admins & employees | React, Tailwind, Vite | [demo →](#) |
+| [Weather Dashboard](https://github.com/Rounakpandey011/weather-dashboard) | Real-time weather app using public API | JavaScript, CSS | [demo →](#) |
+| [Dior Page Clone](https://github.com/Rounakpandey011/Dior-page) | Pixel-perfect luxury brand page recreation | HTML, CSS | [demo →](#) |
+
+## 📊 GitHub stats
+
+![Rounak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rounakpandey011&show_icons=true&theme=default&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rounakpandey011&layout=compact&hide_border=true)
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.com)
