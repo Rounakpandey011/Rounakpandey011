@@ -21,14 +21,7 @@ Currently: open to frontend internships & entry-level roles.
 | [Weather Dashboard](https://github.com/Rounakpandey011/weather-dashboard) | Real-time weather app using public API | JavaScript, CSS | [demo →](#) |
 | [Dior Page Clone](https://github.com/Rounakpandey011/Dior-page) | Pixel-perfect luxury brand page recreation | HTML, CSS | [demo →](#) |
 
-## 📊 GitHub stats
-
-![Rounak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rounakpandey011&show_icons=true&theme=default&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rounakpandey011&layout=compact&hide_border=true)
 
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rounak-pandey-a5a06223b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](rounakpandey551@gmail.com)
